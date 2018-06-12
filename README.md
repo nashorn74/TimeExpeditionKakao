@@ -3,11 +3,9 @@
 The project is to make games made from Android and iPhone apps into web apps.
 https://play.google.com/store/apps/details?id=com.omworldgame.time_expedition
 
-<pre><code>
 In 2050, Korean OM broadcasters are conducting a TV program called "Time Expedition" using a time machine. Throughout the competition, the three teams selected from Korea, China and Japan are aiming to find the first time travelers who have traveled on time to places related to some historical figures of the past.
 
 This game is an educational game that aims to follow the clues left by the time travelers in the places related to the historical figures and to accomplish the task sooner than the other teams, while traveling on the background of Northeast Asia (Korea, China, Japan) is.
-</code></pre>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
